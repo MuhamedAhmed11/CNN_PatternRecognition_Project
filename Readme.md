@@ -11,7 +11,7 @@ Amira Ahmed Noaman 1170400
 Muhammed Ahmed Abd El-Monem 1170232
 
 **Important Notes**
-To run the GUI and Enjoy the experience please download Models Folder from this [google drive link](https://drive.google.com/drive/folders/17xioDuMaR-CnERl3hjDephqWkY4WVWC6) and add them (unzipped) to the same directory.
+To run the GUI and Enjoy the experience please download Models, and Data Folders from this [google drive link](https://drive.google.com/drive/folders/17xioDuMaR-CnERl3hjDephqWkY4WVWC6) and add them (unzipped) to the same directory.
 
 **Introduction:**
 
